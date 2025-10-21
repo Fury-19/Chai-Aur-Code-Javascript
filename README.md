@@ -1,2 +1,2 @@
 # Chai-Aur-Code-Javascript
-A Repo for Javascript form Chai Aur Code!!
+A Repo for Javascript from Chai Aur Code!!
