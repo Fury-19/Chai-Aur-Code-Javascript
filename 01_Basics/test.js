@@ -1,1 +1,1 @@
-console.log("fury_19");
+console.log("fury19");
