@@ -45,3 +45,43 @@ console.log(done);
 
 console.log(Boolean("")) // Empty strings result in false!!
 console.log(Boolean(" ")) // Non - Empty strings result in true!!
+
+console.log(""*true)
+console.log(Boolean(""*true))
+
+// ************************************************** Operations **************************************************
+
+console.log(1 + 2 + " 2")
+console.log(1 + 2 + "2")
+console.log("1" + 2)
+console.log("1" + "2")
+console.log(1 + "2")
+
+console.log(+true)
+console.log(+false)
+console.log(+"")
+
+// Increment Decrement Operations:-
+
+let counter = 120
+console.log(counter);
+
+counter--
+
+console.log(counter)
+
+counter++
+
+console.log(counter)
+
+console.log(++counter) // Increment before execution
+
+console.log(counter++) // Increment after execution
+
+console.log(counter)
+
+console.log(--counter) // Decrement before execution
+
+console.log(counter--) // Decrement after execution
+
+console.log(counter)
