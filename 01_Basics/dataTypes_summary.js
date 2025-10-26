@@ -38,3 +38,23 @@ const myFunction = function()
 }
 
 // NOTE: Javascript is a Dynamically typed Language!!
+
+// Examples of Primitive => These are copied by value!! **********IMPORTANT**********
+let x = 5
+let y = x
+
+x = 20;
+
+console.log(y)
+
+y = 10
+
+console.log(x)
+
+// Examples of Non - Primitive => These are copied by reference()Address!! **********IMPORTANT**********
+let obj1 = {name: "Fury_19", age: 69};
+let obj2 = obj1;
+
+obj2.name = "Nick";
+
+console.log(obj1) // Name changed because both obj1 and obj2 were pointing to same address!!
