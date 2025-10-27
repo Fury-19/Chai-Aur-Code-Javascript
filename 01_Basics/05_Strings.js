@@ -17,6 +17,4 @@ console.log(gameName.toUpperCase());
 console.log(gameName.charAt(2));
 console.log(gameName.indexOf('y')); // Gives Index of first occurence passed as argument!!
 
-
-
 // Read and Learn about other functions related to String form MDN!!
