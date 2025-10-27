@@ -1,4 +1,5 @@
 const name = "Fury_19"
+
 const repoCount = 96
 
 console.log(name + repoCount + " Value") // Bad Syntax of writing code!!
