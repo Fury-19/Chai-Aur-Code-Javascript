@@ -19,4 +19,4 @@ console.log(gameName.indexOf('y')); // Gives Index of first occurence passed as 
 
 
 
-// Read and Learn about other functions related to String form MDN!!
+// Read and Learn about other functions related to String form MDN!!!
